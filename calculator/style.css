@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: black;
+    border-color: aliceblue;
+   }
+   
+   .calculator {
+    text-align: center;
+    font-size: 20px;
+    border-color: aliceblue;
+   }
+   .container{
+    border-color: blanchedalmond;
+   }
+   
+   .display {
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid black;
+    width: 300px;
+    height: 60px;
+    text-align: right;
+   }
+   
+   button {
+    padding: 10px;
+    margin: 5px;
+    font-size: 20px;
+   }
